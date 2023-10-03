@@ -1,0 +1,15 @@
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\bin\Debug\net7.0\Hb_ComparisonStringBuilder.exe
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\bin\Debug\net7.0\Hb_ComparisonStringBuilder.deps.json
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\bin\Debug\net7.0\Hb_ComparisonStringBuilder.runtimeconfig.json
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\bin\Debug\net7.0\Hb_ComparisonStringBuilder.dll
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\bin\Debug\net7.0\Hb_ComparisonStringBuilder.pdb
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\obj\Debug\net7.0\Hb_ComparisonStringBuilder.csproj.AssemblyReference.cache
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\obj\Debug\net7.0\Hb_ComparisonStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\obj\Debug\net7.0\Hb_ComparisonStringBuilder.AssemblyInfoInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\obj\Debug\net7.0\Hb_ComparisonStringBuilder.AssemblyInfo.cs
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\obj\Debug\net7.0\Hb_ComparisonStringBuilder.csproj.CoreCompileInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\obj\Debug\net7.0\Hb_ComparisonStringBuilder.dll
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\obj\Debug\net7.0\refint\Hb_ComparisonStringBuilder.dll
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\obj\Debug\net7.0\Hb_ComparisonStringBuilder.pdb
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\obj\Debug\net7.0\Hb_ComparisonStringBuilder.genruntimeconfig.cache
+c:\CSharp\Bootcamp\vscode\Day 16\Hb_ComparisonStringBuilder\obj\Debug\net7.0\ref\Hb_ComparisonStringBuilder.dll

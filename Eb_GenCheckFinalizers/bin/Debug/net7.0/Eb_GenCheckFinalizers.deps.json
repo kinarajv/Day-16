@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Eb_GenCheckFinalizers/1.0.0": {
+        "runtime": {
+          "Eb_GenCheckFinalizers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eb_GenCheckFinalizers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

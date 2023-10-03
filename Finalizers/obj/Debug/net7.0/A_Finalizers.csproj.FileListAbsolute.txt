@@ -1,0 +1,15 @@
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\bin\Debug\net7.0\A_Finalizers.exe
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\bin\Debug\net7.0\A_Finalizers.deps.json
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\bin\Debug\net7.0\A_Finalizers.runtimeconfig.json
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\bin\Debug\net7.0\A_Finalizers.dll
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\bin\Debug\net7.0\A_Finalizers.pdb
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\obj\Debug\net7.0\A_Finalizers.csproj.AssemblyReference.cache
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\obj\Debug\net7.0\A_Finalizers.GeneratedMSBuildEditorConfig.editorconfig
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\obj\Debug\net7.0\A_Finalizers.AssemblyInfoInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\obj\Debug\net7.0\A_Finalizers.AssemblyInfo.cs
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\obj\Debug\net7.0\A_Finalizers.csproj.CoreCompileInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\obj\Debug\net7.0\A_Finalizers.dll
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\obj\Debug\net7.0\refint\A_Finalizers.dll
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\obj\Debug\net7.0\A_Finalizers.pdb
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\obj\Debug\net7.0\A_Finalizers.genruntimeconfig.cache
+c:\CSharp\Bootcamp\vscode\Day 16\Finalizers\obj\Debug\net7.0\ref\A_Finalizers.dll

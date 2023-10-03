@@ -1,0 +1,15 @@
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\bin\Debug\net7.0\Eb_GenCheckFinalizers.exe
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\bin\Debug\net7.0\Eb_GenCheckFinalizers.deps.json
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\bin\Debug\net7.0\Eb_GenCheckFinalizers.runtimeconfig.json
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\bin\Debug\net7.0\Eb_GenCheckFinalizers.dll
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\bin\Debug\net7.0\Eb_GenCheckFinalizers.pdb
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\obj\Debug\net7.0\Eb_GenCheckFinalizers.csproj.AssemblyReference.cache
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\obj\Debug\net7.0\Eb_GenCheckFinalizers.GeneratedMSBuildEditorConfig.editorconfig
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\obj\Debug\net7.0\Eb_GenCheckFinalizers.AssemblyInfoInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\obj\Debug\net7.0\Eb_GenCheckFinalizers.AssemblyInfo.cs
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\obj\Debug\net7.0\Eb_GenCheckFinalizers.csproj.CoreCompileInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\obj\Debug\net7.0\Eb_GenCheckFinalizers.dll
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\obj\Debug\net7.0\refint\Eb_GenCheckFinalizers.dll
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\obj\Debug\net7.0\Eb_GenCheckFinalizers.pdb
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\obj\Debug\net7.0\Eb_GenCheckFinalizers.genruntimeconfig.cache
+c:\CSharp\Bootcamp\vscode\Day 16\Eb_GenCheckFinalizers\obj\Debug\net7.0\ref\Eb_GenCheckFinalizers.dll

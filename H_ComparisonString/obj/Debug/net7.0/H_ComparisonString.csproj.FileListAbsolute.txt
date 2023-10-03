@@ -1,0 +1,15 @@
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\bin\Debug\net7.0\H_ComparisonString.exe
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\bin\Debug\net7.0\H_ComparisonString.deps.json
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\bin\Debug\net7.0\H_ComparisonString.runtimeconfig.json
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\bin\Debug\net7.0\H_ComparisonString.dll
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\bin\Debug\net7.0\H_ComparisonString.pdb
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\obj\Debug\net7.0\H_ComparisonString.csproj.AssemblyReference.cache
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\obj\Debug\net7.0\H_ComparisonString.GeneratedMSBuildEditorConfig.editorconfig
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\obj\Debug\net7.0\H_ComparisonString.AssemblyInfoInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\obj\Debug\net7.0\H_ComparisonString.AssemblyInfo.cs
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\obj\Debug\net7.0\H_ComparisonString.csproj.CoreCompileInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\obj\Debug\net7.0\H_ComparisonString.dll
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\obj\Debug\net7.0\refint\H_ComparisonString.dll
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\obj\Debug\net7.0\H_ComparisonString.pdb
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\obj\Debug\net7.0\H_ComparisonString.genruntimeconfig.cache
+c:\CSharp\Bootcamp\vscode\Day 16\H_ComparisonString\obj\Debug\net7.0\ref\H_ComparisonString.dll

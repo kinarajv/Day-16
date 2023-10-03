@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Hb_ComparisonStringBuilder/1.0.0": {
+        "runtime": {
+          "Hb_ComparisonStringBuilder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hb_ComparisonStringBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
