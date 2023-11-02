@@ -18,7 +18,7 @@ namespace StopwatchDemo
             }
 
             stopwatch.Stop();
-            Console.WriteLine("Elapsed time: " + stopwatch.Elapsed);
+            Console.WriteLine("Elapsed time: " + stopwatch.ElapsedMilliseconds);
 
             Console.Read();
         }

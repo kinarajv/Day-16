@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YnqNOlYOaD22csJG18XbayqEtfx+OoCVzVJBlqyicSu4GFFbU/LxLLuBQJFiK1JC5/ndPDgluzs+S7Ep6lLkyQ==",
+  "dgSpecHash": "+OFMyaQA1B6YMlb+VlSj5O0bLyrJWTZKpEFRLT4jz5q97ZuQcCvrrhEAtJC32+++8VUoo4NOgIvMa4igSt9KVg==",
   "success": true,
-  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\G_IDisposeExample\\G_IDisposeExample.csproj",
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\G_IDisposeExample\\G_IDisposeExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

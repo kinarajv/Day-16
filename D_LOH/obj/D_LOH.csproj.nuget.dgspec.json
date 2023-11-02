@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\D_LOH\\D_LOH.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\D_LOH\\D_LOH.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\D_LOH\\D_LOH.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\D_LOH\\D_LOH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\D_LOH\\D_LOH.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\D_LOH\\D_LOH.csproj",
         "projectName": "D_LOH",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\D_LOH\\D_LOH.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\D_LOH\\D_LOH.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\D_LOH\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\D_LOH\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

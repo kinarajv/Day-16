@@ -31,8 +31,8 @@ namespace DestructorExample
 		{
 			First obj = new First();
 			obj = null;
-			GC.Collect();
 			GC.WaitForPendingFinalizers();
+			GC.Collect();
 		}
 	}
 }

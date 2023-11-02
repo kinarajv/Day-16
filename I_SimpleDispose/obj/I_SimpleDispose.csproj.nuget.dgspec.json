@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\I_SimpleDispose\\I_SimpleDispose.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\I_SimpleDispose\\I_SimpleDispose.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\I_SimpleDispose\\I_SimpleDispose.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\I_SimpleDispose\\I_SimpleDispose.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\I_SimpleDispose\\I_SimpleDispose.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\I_SimpleDispose\\I_SimpleDispose.csproj",
         "projectName": "I_SimpleDispose",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\I_SimpleDispose\\I_SimpleDispose.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\I_SimpleDispose\\I_SimpleDispose.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\I_SimpleDispose\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\I_SimpleDispose\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

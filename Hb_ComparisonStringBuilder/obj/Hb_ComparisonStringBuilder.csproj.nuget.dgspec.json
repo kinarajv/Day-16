@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Hb_ComparisonStringBuilder\\Hb_ComparisonStringBuilder.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Hb_ComparisonStringBuilder\\Hb_ComparisonStringBuilder.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Hb_ComparisonStringBuilder\\Hb_ComparisonStringBuilder.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Hb_ComparisonStringBuilder\\Hb_ComparisonStringBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Hb_ComparisonStringBuilder\\Hb_ComparisonStringBuilder.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Hb_ComparisonStringBuilder\\Hb_ComparisonStringBuilder.csproj",
         "projectName": "Hb_ComparisonStringBuilder",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Hb_ComparisonStringBuilder\\Hb_ComparisonStringBuilder.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Hb_ComparisonStringBuilder\\Hb_ComparisonStringBuilder.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Hb_ComparisonStringBuilder\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Hb_ComparisonStringBuilder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

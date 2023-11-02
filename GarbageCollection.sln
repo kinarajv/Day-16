@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hb_ComparisonStringBuilder"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I_SimpleDispose", "I_SimpleDispose\I_SimpleDispose.csproj", "{B721E3D7-67E1-4684-808D-EFF19FD3CFFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trial", "Trial\Trial.csproj", "{46E2BBE0-24F9-45D3-A0F4-4F723A13B52A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{B721E3D7-67E1-4684-808D-EFF19FD3CFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B721E3D7-67E1-4684-808D-EFF19FD3CFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B721E3D7-67E1-4684-808D-EFF19FD3CFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E2BBE0-24F9-45D3-A0F4-4F723A13B52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E2BBE0-24F9-45D3-A0F4-4F723A13B52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E2BBE0-24F9-45D3-A0F4-4F723A13B52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E2BBE0-24F9-45D3-A0F4-4F723A13B52A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

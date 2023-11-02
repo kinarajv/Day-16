@@ -3,57 +3,58 @@ using System.IO;
 
 public class ResourceHandler : IDisposable
 {
-    private MemoryStream memoryStream;
-    private FileStream fileStream;
-    private bool disposed = false;
+	private MemoryStream managedResource;
+	private FileStream unmanagedResource;
+	private bool disposed = false;
 
-    public ResourceHandler(string filePath)
-    {
-        memoryStream = new MemoryStream();
-        fileStream = new FileStream(filePath, FileMode.OpenOrCreate, FileAccess.ReadWrite);
-    }
+	public ResourceHandler(string filePath)
+	{
+		managedResource = new MemoryStream();
+		unmanagedResource = new FileStream(filePath, FileMode.OpenOrCreate, FileAccess.ReadWrite);
+	}
 
-    public void WriteToMemory(string content)
-    {
-        if (disposed)
-        {
-            throw new ObjectDisposedException("ResourceHandler");
-        }
+	public void WriteToMemory(string content)
+	{
+		if (disposed)
+		{
+			throw new ObjectDisposedException("ResourceHandler");
+		}
 
-        byte[] data = System.Text.Encoding.UTF8.GetBytes(content);
-        memoryStream.Write(data, 0, data.Length);
-    }
+		byte[] data = System.Text.Encoding.UTF8.GetBytes(content);
+		managedResource.Write(data, 0, data.Length);
+	}
 
-    public void Dispose()
-    {
-        Dispose(true);
-        GC.SuppressFinalize(this);
-    }
 
-    protected virtual void Dispose(bool disposing)
-    {
-        if (!disposed)
-        {
-            if (disposing)
-            {
-                if (memoryStream != null)
-                {
-                    memoryStream.Dispose();
-                    memoryStream = null;
-                }
-            }
-            if (fileStream != null)
-            {
-                fileStream.Close();
-                fileStream = null;
-            }
+	protected virtual void Dispose(bool disposing)
+	{
+		if (!disposed)
+		{
+			if (disposing)
+			{
+				if (managedResource != null)
+				{
+					managedResource.Dispose();
+					managedResource = null;
+				}
+			}
+			if (unmanagedResource != null)
+			{
+				unmanagedResource.Close();
+				unmanagedResource = null;
+			}
 
-            disposed = true;
-        }
-    }
+			disposed = true;
+		}
+	}
 
-    ~ResourceHandler()
-    {
-        Dispose(false);
-    }
+	public void Dispose()
+	{
+		Dispose(true);
+		GC.SuppressFinalize(this);
+	}
+	
+	~ResourceHandler()
+	{
+		Dispose(false);
+	}
 }

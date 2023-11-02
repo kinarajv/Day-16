@@ -1,19 +1,26 @@
-﻿class MyOtherClass
+﻿class Piece
 {
-    ~MyOtherClass()
+	public Piece() 
 	{
-		Console.WriteLine("MyOtherClass destructor called.");
+		Console.WriteLine("Piece created");
+	}
+	~Piece()
+	{
+		Console.WriteLine("Piece destructor called.");
 	}
 }
 
-class MyClass
+class GameController
 {
-	MyOtherClass otherObj = new MyOtherClass();
-
-	~MyClass()
+	Piece piece = new Piece();
+	public GameController() 
 	{
-		otherObj = null;
-		Console.WriteLine("MyClass destructor called.");
+		Console.WriteLine("GameController created");
+	}
+	~GameController()
+	{
+		piece = null;
+		Console.WriteLine("GameController destructor called.");
 	}
 }
 
@@ -21,8 +28,11 @@ class Program
 {
 	static void Main(string[] args)
 	{
-		MyClass myObj = new MyClass();
-		myObj = null;
+		InstanceCreator();
 		GC.Collect();
+		GC.WaitForPendingFinalizers();
+	}
+	static void InstanceCreator() {
+		GameController game = new GameController();
 	}
 }
