@@ -6,7 +6,7 @@ namespace DestructorExample
 	{
 		public DestructorDemo()
 		{
-			Console.WriteLine("Constructor Object created");
+			Console.WriteLine("Constructor Object called");
 		}
 		~DestructorDemo()
 		{
@@ -20,17 +20,11 @@ namespace DestructorExample
 		{
 			
 			InstanceCreator();
-			DestructorDemo obj1 = new DestructorDemo();
-			obj1 = new DestructorDemo();
-			GC.Collect();
-			GC.WaitForPendingFinalizers();
-			GC.Collect();
-			GC.Collect();
-			GC.WaitForPendingFinalizers();
-			GC.WaitForPendingFinalizers();
+			//....
 			Console.ReadKey();
 		}
 		static void InstanceCreator() {
+			int a = 3;
 			DestructorDemo obj1 = new DestructorDemo();
 		}
 	}

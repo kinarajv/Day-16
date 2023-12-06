@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\E_GenCheckWithoutFinalizers\\E_GenCheckWithoutFinalizers.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\E_GenCheckWithoutFinalizers\\E_GenCheckWithoutFinalizers.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\E_GenCheckWithoutFinalizers\\E_GenCheckWithoutFinalizers.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\E_GenCheckWithoutFinalizers\\E_GenCheckWithoutFinalizers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\E_GenCheckWithoutFinalizers\\E_GenCheckWithoutFinalizers.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\E_GenCheckWithoutFinalizers\\E_GenCheckWithoutFinalizers.csproj",
         "projectName": "E_GenCheckWithoutFinalizers",
-        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\E_GenCheckWithoutFinalizers\\E_GenCheckWithoutFinalizers.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\E_GenCheckWithoutFinalizers\\E_GenCheckWithoutFinalizers.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\E_GenCheckWithoutFinalizers\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\E_GenCheckWithoutFinalizers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

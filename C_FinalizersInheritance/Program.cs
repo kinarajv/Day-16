@@ -29,10 +29,14 @@ namespace DestructorExample
 	{
 		static void Main(string[] args)
 		{
-			First obj = new First();
-			obj = null;
-			GC.WaitForPendingFinalizers();
+			InstanceCreator();
+			// Second obj1 = new Second();
 			GC.Collect();
+			GC.WaitForPendingFinalizers();
+		}
+		static void InstanceCreator() 
+		{
+			Third obj = new Third();
 		}
 	}
 }

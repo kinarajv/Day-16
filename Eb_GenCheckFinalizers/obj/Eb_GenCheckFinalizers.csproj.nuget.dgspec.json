@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\Eb_GenCheckFinalizers.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\Eb_GenCheckFinalizers.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\Eb_GenCheckFinalizers.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\Eb_GenCheckFinalizers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\Eb_GenCheckFinalizers.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\Eb_GenCheckFinalizers.csproj",
         "projectName": "Eb_GenCheckFinalizers",
-        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\Eb_GenCheckFinalizers.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\Eb_GenCheckFinalizers.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

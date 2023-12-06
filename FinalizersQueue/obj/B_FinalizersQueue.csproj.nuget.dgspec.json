@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\FinalizersQueue\\B_FinalizersQueue.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\FinalizersQueue\\B_FinalizersQueue.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\FinalizersQueue\\B_FinalizersQueue.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\FinalizersQueue\\B_FinalizersQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\FinalizersQueue\\B_FinalizersQueue.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\FinalizersQueue\\B_FinalizersQueue.csproj",
         "projectName": "B_FinalizersQueue",
-        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\FinalizersQueue\\B_FinalizersQueue.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\FinalizersQueue\\B_FinalizersQueue.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\FinalizersQueue\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\FinalizersQueue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

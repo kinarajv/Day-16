@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\C_FinalizersInheritance\\C_FinalizersInheritance.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\C_FinalizersInheritance\\C_FinalizersInheritance.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\C_FinalizersInheritance\\C_FinalizersInheritance.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\C_FinalizersInheritance\\C_FinalizersInheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\C_FinalizersInheritance\\C_FinalizersInheritance.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\C_FinalizersInheritance\\C_FinalizersInheritance.csproj",
         "projectName": "C_FinalizersInheritance",
-        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\C_FinalizersInheritance\\C_FinalizersInheritance.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\C_FinalizersInheritance\\C_FinalizersInheritance.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\C_FinalizersInheritance\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\C_FinalizersInheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

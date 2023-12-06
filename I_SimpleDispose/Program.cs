@@ -1,51 +1,38 @@
-﻿using System;
-
-namespace DestructorExample
+﻿class Car : IDisposable
 {
-    class DestructorDemo : IDisposable
-    {
-        SimpleClass simple = new SimpleClass();
+	public Engine engine;
+	public File file;
+	private bool disposedValue; //status Dispose already called or not
 
-        public DestructorDemo()
-        {
-            Console.WriteLine("Object created");
-        }
+	protected virtual void Dispose(bool disposing)
+	{
+		if (!disposedValue)
+		{
+			if (disposing)
+			{
+				engine = null;
+				// TODO: dispose managed state (managed objects)
+			}
+			file.Dispose();
+			file = null;
+			
+			// TODO: free unmanaged resources (unmanaged objects) and override finalizer
+			// TODO: set large fields to null
+			disposedValue = true;
+		}
+	}
 
-        public void Dispose()
-        {
-            simple = null;
-        }
+	// // TODO: override finalizer only if 'Dispose(bool disposing)' has code to free unmanaged resources
+	~Car()
+	{
+	    // Do not change this code. Put cleanup code in 'Dispose(bool disposing)' method
+	    Dispose(disposing: false);
+	}
 
-        ~DestructorDemo()
-        {
-            Dispose();
-            Console.WriteLine("Object destroyed");
-        }
-    }
-
-    class SimpleClass
-    {
-        ~SimpleClass()
-        {
-            Console.WriteLine("Simple Class Destroyed");
-        }
-    }
-
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            DestructorDemo obj1 = new DestructorDemo();
-            DestructorDemo obj2 = new DestructorDemo();
-
-            obj1.Dispose();
-            obj1 = null;
-
-            Console.ReadKey();
-            GC.Collect();
-            GC.WaitForPendingFinalizers();  // Wait for the finalizers to run
-
-            Console.ReadKey();
-        }
-    }
+	public void Dispose()
+	{
+		// Do not change this code. Put cleanup code in 'Dispose(bool disposing)' method
+		Dispose(disposing: true);
+		GC.SuppressFinalize(this);
+	}
 }

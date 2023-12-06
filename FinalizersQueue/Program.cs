@@ -29,8 +29,9 @@ class Program
 	static void Main(string[] args)
 	{
 		InstanceCreator();
-		GC.Collect();
-		GC.WaitForPendingFinalizers();
+		GC.Collect(); // GC mark sweep
+		// GC.Collect();
+		//GC.WaitForPendingFinalizers(); //GC execute finalizer list
 	}
 	static void InstanceCreator() {
 		GameController game = new GameController();

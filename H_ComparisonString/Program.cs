@@ -6,7 +6,7 @@ class Program {
 		string text = String.Empty;
 		Stopwatch stopwatch = new Stopwatch();
 		stopwatch.Start();
-		for (int i = 0; i < 100000; i++) {
+		for (int i = 0; i < 10000000; i++) {
 			text += "a";
 			text += "b";
 			text = text.Replace('a', 'c');
