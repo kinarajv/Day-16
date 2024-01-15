@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Ec_GenCheckDispose\\Ec_GenCheckDispose.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Ec_GenCheckDispose\\Ec_GenCheckDispose.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Ec_GenCheckDispose\\Ec_GenCheckDispose.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Ec_GenCheckDispose\\Ec_GenCheckDispose.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Ec_GenCheckDispose\\Ec_GenCheckDispose.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Ec_GenCheckDispose\\Ec_GenCheckDispose.csproj",
         "projectName": "Ec_GenCheckDispose",
-        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Ec_GenCheckDispose\\Ec_GenCheckDispose.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Ec_GenCheckDispose\\Ec_GenCheckDispose.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Ec_GenCheckDispose\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Ec_GenCheckDispose\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

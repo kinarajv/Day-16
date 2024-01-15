@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YkAi34g3jPBXKovgrSdYfUaw+4wnUydPsQiP8W3YdnHn2h3DE9laWCGBvKTls1b0UTG0OIBDV9OBm/fK2OyUrg==",
+  "dgSpecHash": "se3z1Lt63hoq356wszvkytXrowSY9DVTkByHiARc/7R0wsAryEd9BLgcOOh9VgzKCFRflX4ckTS57iO0UTG9sA==",
   "success": true,
-  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\Eb_GenCheckFinalizers.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\Eb_GenCheckFinalizers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",

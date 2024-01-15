@@ -3,7 +3,6 @@ c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\bin\Debug\net7.0\Ec_GenCheck
 c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\bin\Debug\net7.0\Ec_GenCheckDispose.runtimeconfig.json
 c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\bin\Debug\net7.0\Ec_GenCheckDispose.dll
 c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\bin\Debug\net7.0\Ec_GenCheckDispose.pdb
-c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.csproj.AssemblyReference.cache
 c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.GeneratedMSBuildEditorConfig.editorconfig
 c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.AssemblyInfoInputs.cache
 c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.AssemblyInfo.cs
@@ -13,3 +12,4 @@ c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\obj\Debug\net7.0\refint\Ec_G
 c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.pdb
 c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\obj\Debug\net7.0\ref\Ec_GenCheckDispose.dll
+c:\CSharp\Bootcamp\vscode\Day 16\Ec_GenCheckDispose\obj\Debug\net7.0\Ec_GenCheckDispose.sourcelink.json

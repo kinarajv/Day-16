@@ -32,7 +32,7 @@ namespace DestructorExample
 			InstanceCreator();
 			// Second obj1 = new Second();
 			GC.Collect();
-			GC.WaitForPendingFinalizers();
+			//GC.WaitForPendingFinalizers();
 		}
 		static void InstanceCreator() 
 		{

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P1v6jR205RYihtmCeLY0V38XgcroVzr6xQib7PwkBc6X9Dxa6UJ0+Ne8H65wSsVe8/WZiY/DHIz9et1FoEyDew==",
+  "dgSpecHash": "dGPZri7xLdOA2rc7XpUm5+ZkQUC7iq3HsOVTJLMIUEgRaa1iq1EN7J20ivVCeZ9hw6YpNQXfh0vtu5Dv4FRGYA==",
   "success": true,
-  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Ec_GenCheckDispose\\Ec_GenCheckDispose.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Ec_GenCheckDispose\\Ec_GenCheckDispose.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
