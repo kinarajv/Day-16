@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eb_GenCheckFinalizers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+717e23e841827c50fd4fe87d2eef5c84deb46b69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eb_GenCheckFinalizers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eb_GenCheckFinalizers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
