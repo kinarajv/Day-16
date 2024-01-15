@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Do1RBh16JGcaoL9KakNMJh2pBFoYBQ5Ppn3g7UQA03vOReVww6BY5pj9MCnPZiCLjSSw14J6NZrYhNrrXpyHzQ==",
+  "dgSpecHash": "UJFUvwFGEsG0Ew7bPwFKRYac/UA8OU4pX+VPfcUIryoY6weBwrzhCwLJulAZ13RFerBt9OOV0Jmk3Ladegrz4A==",
   "success": true,
   "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\D_LOH\\D_LOH.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

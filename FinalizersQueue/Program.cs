@@ -1,39 +1,28 @@
-﻿class Piece
-{
-	public Piece() 
-	{
-		Console.WriteLine("Piece created");
-	}
-	~Piece()
-	{
-		Console.WriteLine("Piece destructor called.");
-	}
-}
-
-class GameController
-{
-	Piece piece = new Piece();
-	public GameController() 
-	{
-		Console.WriteLine("GameController created");
-	}
-	~GameController()
-	{
-		piece = null;
-		Console.WriteLine("GameController destructor called.");
-	}
-}
-
-class Program
+﻿class Program
 {
 	static void Main(string[] args)
 	{
-		InstanceCreator();
-		GC.Collect(); // GC mark sweep
-		// GC.Collect();
-		//GC.WaitForPendingFinalizers(); //GC execute finalizer list
+		int count = 0;
+
+		while (!Console.KeyAvailable)
+			new MyObject(count++);
+
+		Console.WriteLine("Terminating process...");
 	}
-	static void InstanceCreator() {
-		GameController game = new GameController();
+}
+class MyObject
+{
+	private int index;
+
+	public MyObject(int index)
+	{
+		this.index = index;
+		Console.WriteLine($"Constructed object {index} in gen {GC.GetGeneration(this)}");
+	}
+
+	~MyObject()
+	{
+		Thread.Sleep(500);
+		Console.WriteLine($"Finalized object {index} in gen {GC.GetGeneration(this)}");
 	}
 }

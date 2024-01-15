@@ -1,7 +1,7 @@
 ﻿class Car : IDisposable
 {
 	public Engine engine;
-	public File file;
+	public FileExternal file;
 	private bool disposedValue; //status Dispose already called or not
 
 	protected virtual void Dispose(bool disposing)
@@ -35,4 +35,13 @@
 		Dispose(disposing: true);
 		GC.SuppressFinalize(this);
 	}
+}
+
+internal class FileExternal
+{
+	public void Dispose() {}
+}
+
+internal class Engine
+{
 }

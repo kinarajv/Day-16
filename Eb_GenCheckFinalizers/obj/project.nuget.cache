@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "erUQR1/RTy+QX/5cB/kU5drW2yQBJlvTSRwtj5K5iMi16IsLPngbXXajrl7sv2sB/HCO7xMPq7yOtZRTXOeWCw==",
+  "dgSpecHash": "YkAi34g3jPBXKovgrSdYfUaw+4wnUydPsQiP8W3YdnHn2h3DE9laWCGBvKTls1b0UTG0OIBDV9OBm/fK2OyUrg==",
   "success": true,
-  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\Eb_GenCheckFinalizers.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Eb_GenCheckFinalizers\\Eb_GenCheckFinalizers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

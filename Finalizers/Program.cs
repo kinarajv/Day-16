@@ -18,14 +18,13 @@ namespace DestructorExample
 	{
 		static void Main(string[] args)
 		{
-			
+			DestructorDemo obj1 = new DestructorDemo();
 			InstanceCreator();
 			//....
 			Console.ReadKey();
 		}
 		static void InstanceCreator() {
-			int a = 3;
-			DestructorDemo obj1 = new DestructorDemo();
+			
 		}
 	}
 }

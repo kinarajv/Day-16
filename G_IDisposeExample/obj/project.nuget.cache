@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+OFMyaQA1B6YMlb+VlSj5O0bLyrJWTZKpEFRLT4jz5q97ZuQcCvrrhEAtJC32+++8VUoo4NOgIvMa4igSt9KVg==",
+  "dgSpecHash": "4CYfDvTfIzScZrGPJ/dYs4iR0cE7LENr1uDL9EhD3x0dSC2vo8KeT0FuHa568lNUda+ZQmIE5SZ/ssjSGhwAIw==",
   "success": true,
   "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\G_IDisposeExample\\G_IDisposeExample.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

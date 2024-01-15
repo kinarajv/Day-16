@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yZX2oFTHmiEyyXlpb3KyVKkdCkeOJvocSLwtb6gku5m5GL/wp+LdgBdztTcWT9q9HGM4G9s0kChxULYUZ7YB5Q==",
+  "dgSpecHash": "mhB3JJ7LVrYT0IMQo/riC7+U3uORVVH+eHXmPx7tzbHFegN4Rnf/ELQG2jl0JN8G/8QOy365Z+7Ny0232tH/gg==",
   "success": true,
   "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day 16\\Hb_ComparisonStringBuilder\\Hb_ComparisonStringBuilder.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

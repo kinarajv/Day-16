@@ -159,3 +159,7 @@ class MyClass4 : IDisposable
 		GC.SuppressFinalize(this);
 	}
 }
+
+internal class Youtube
+{
+}
